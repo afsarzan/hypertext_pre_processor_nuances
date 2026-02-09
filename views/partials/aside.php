@@ -3,7 +3,7 @@
       Analyzer
     </div>
     <nav class="flex-1 space-y-2 p-4">
-      <a href="#" class="block hover:bg-indigo-600 px-4 py-2.5 rounded transition duration-200">All Patents</a>
-      <a href="#" class="block hover:bg-indigo-600 px-4 py-2.5 rounded transition duration-200">Add patents</a>
+      <a href="index.php" class="block hover:bg-indigo-600 px-4 py-2.5 rounded transition duration-200">All Patents</a>
+      <a href="add_patent.php" class="block hover:bg-indigo-600 px-4 py-2.5 rounded transition duration-200">Add patents</a>
     </nav>
   </aside>
